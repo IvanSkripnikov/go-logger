@@ -1,1 +1,1 @@
-# go-logger
+# go-packages-logger
