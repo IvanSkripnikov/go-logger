@@ -1,4 +1,4 @@
-module github.com/IvanSkripnikov/go_logger
+module github.com/IvanSkripnikov/go_logger/logger
 
 go 1.19
 
