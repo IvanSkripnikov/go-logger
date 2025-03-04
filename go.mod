@@ -1,4 +1,4 @@
-module github.com/IvanSkripnikov/go_packages/logger
+module github.com/IvanSkripnikov/go-logger
 
 go 1.21
 
