@@ -1,6 +1,6 @@
-module github.com/IvanSkripnikov/go_logger
+module github.com/IvanSkripnikov/go_packages/logger
 
-go 1.19
+go 1.21
 
 require (
 	github.com/prometheus/client_golang v1.20.5
